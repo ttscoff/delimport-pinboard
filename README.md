@@ -3,7 +3,14 @@
 Index your [Pinboard](http://pinboard.in) bookmarks using [Spotlight](http://www.apple.com/macosx/what-is-macosx/spotlight.html)
 on Mac OS X. Updates every half-hour. Includes url, title, description, and tags.
 
-(This is a fork of the awesome [delimport](http://ianhenderson.org/delimport.html) Spotlight plugin by Ian Henderson.)
+I've been heavily invested in [Delicious](http://delicious.com) as a bookmarking service for many years.
+However, after learning about Delicious' [sunsetting](https://twitter.com/waxpancake/status/15483488237002752),
+I've decided to join the ranks of the [Great Delicious Exodus](https://twitter.com/PinboardIN/status/20323781167816704)
+and sign up for an account with [Pinboard](http://pinboard.in).
+
+This is a fork of the awesome [delimport](http://ianhenderson.org/delimport.html), which automatically indexes
+Delicious bookmarks and makes them available via Spotlight and Spotlight-powered tools (e.g.
+[Alfred](http://alfredapp.com)) on Mac OS X. This fork indexes your Pinboard bookmarks instead.
 
 
 ## Building from Source
